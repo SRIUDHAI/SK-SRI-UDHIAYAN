@@ -1,0 +1,6 @@
+{
+  "name": "Sri Udhaiyan Portfolio",
+  "description": "A cinematic 3D animated digital ecosystem and portfolio showcase for Sri Udhaiyan, featuring multiple company divisions, application galleries, and a high-fidelity music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
